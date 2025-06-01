@@ -70,7 +70,3 @@ npm run dev
 Special thanks to:
 - The amazing open-source community
 - Contributors who helped shape this project
-
----
-
-Built with ❤️ by Asad Raza
